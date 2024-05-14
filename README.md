@@ -1,0 +1,1 @@
+A straightforward currency converter that offers various options for conversion. Additionally, it keeps track of your conversion history, which is displayed at the end of the program.A straightforward currency converter that offers various options for conversion. Additionally, it keeps track of your conversion history, which is displayed at the end of the program.
